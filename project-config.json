@@ -1,0 +1,13 @@
+{
+    "name": "THEC64-Player-XMAS2025",
+    "description": "A polyphonic music player for the Commodore 64 including \"Sleigh Ride\" by Leroy Anderson and Mitchell Parish.",
+    "toolkit": "basic",
+    "sources": [
+        "XMAS2025.bas"
+    ],
+    "build": "debug",
+    "definitions": [],
+    "includes": [],
+    "args": [],
+    "compiler": ""
+}
